@@ -1,0 +1,3 @@
+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
+
+git remote add origin https://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@github.com/nafsonig/githubfirst
